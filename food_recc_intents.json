@@ -1,0 +1,57 @@
+{  
+    "Prefer":[
+       "want",
+       "prefer",
+       "have",
+       "take",
+       "desire",
+       "favour",
+       "choose",
+       "like",
+       "enjoy",
+       "am"
+       ],
+    
+    "Don't Prefer": [
+        "hate",
+        "don't",
+        "not",
+        "avoid",
+        "reject",
+        "detest",
+        "dislike",
+        "disapprove",
+        "oppose",
+        "refuse",
+        "resist"
+        ],
+    
+    "Non-Vegetarian": [
+        "non-veg",
+        "non-vegetarian",
+        "carnivorous",
+        "omnivorous".
+        "meat",
+        "meat-eating",
+        "animal",
+        "animal-eating",
+        ],
+        
+    "Vegetarian": [
+        "veggie",
+        "veg",
+        "vegetarian",
+        "vegetable",
+        "herbivore",
+        "plant",
+        "plant-based",
+        "green",
+        "herbi",
+        "salad",
+        "leafy"
+        ]
+}
+        
+        
+        
+        
