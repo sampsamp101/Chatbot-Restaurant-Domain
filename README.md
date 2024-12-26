@@ -90,7 +90,7 @@ The chatbot delivers a smooth user experience by:
 
 Below is the logic flowchart for the restaurant-themed chatbot:
 
-![Chatbot Logic Flowchart](Docs/chatbot_flowchart.png)
+![Chatbot Logic Flowchart](Docs/Ai_ML Flowchart.drawio.png)
 
 
 
