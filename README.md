@@ -83,8 +83,10 @@ The chatbot logic is implemented as a decision tree, guiding users through actio
 ### 5. User Interaction
 The chatbot delivers a smooth user experience by:
 - Supporting free-form input for better interaction.
-- Allowing navigation with commands like **"back"** or **"reset"**.
+- Allowing navigation with commands like **"back"** or *"reset"**.
 - Handling invalid inputs with error messages.
+
+---
 
 ## Chatbot Logic Flowchart
 
