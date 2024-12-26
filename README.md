@@ -86,6 +86,12 @@ The chatbot delivers a smooth user experience by:
 - Allowing navigation with commands like **"back"** or **"reset"**.
 - Handling invalid inputs with error messages.
 
+## Chatbot Logic Flowchart
+
+Below is the logic flowchart for the restaurant-themed chatbot:
+
+![Chatbot Logic Flowchart](Docs/chatbot_flowchart.png)
+
 
 
 
