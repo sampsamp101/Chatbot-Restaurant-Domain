@@ -96,6 +96,11 @@ Below is the logic flowchart for the restaurant-themed chatbot:
 
 
 
+## Credits
 
-
+- **Long Jiwei Aaron**: Lead developer, project manager, and chatbot implementation.
+- **Aryan Mallik**: Co-developer and collaborator on chatbot implementation.
+- **Nanyang Technological University**: Provided guidance and resources for the project.
+- **Dewey H. Hodges and G. Alvin Pierce**: Authors of *Introduction to Structural Dynamics and Aeroelasticity*, which inspired elements of the methodology.
+- **OpenAI and spaCy**: For providing tools and frameworks used in the development of the chatbot.
 
